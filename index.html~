@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+  	
+	<title>Reborn Sunshine</title>
+</head>
+<body>
+	<header>
+		<h1>Disclaimer: If you scroll down, time barbad hojyga</h1>
+	</header>
+
+	<section id="cd-timeline" class="cd-container">
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>Birth Of A Little Princess</h2>
+				<img src="img/n1.jpg"/>
+				<p>Oliebabaleeeeeee :P</p>
+				<span class="cd-date">Feb 23, 1992</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>Darr Lagraha He</h2>
+				<img src="img/n2.jpeg"/>
+				<p>Ankhon me gussa to dekho iski.. lagrahe abhi khaa legi</p>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>That Big Dream</h2>
+				<span class="cd-date">Feb 27, 2016</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>Chase Your Dreams</h2>
+				<img src="img/n3.jpg"/>
+				<p>Go for it.. With god's bless you will live your dreams. Just don't stop chasing. I can see sunshine is even brighter on the other side of the tunnel.</p>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>Stay Healthy & Fit</h2>
+				<img src="img/n5.jpg"/>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>Taariff</h2>
+				<img src="img/n7.png"/>
+				<p>You empower and influence others positively. You have an excellent quality to make others want to be a better person. You are intelligent smart and passionate. Jokes thoda need improvement</p>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>Do Good Things</h2>
+				<p>For yourself, for your family and for the mankind and ofcourse for the womankind :P. Always remember you have taken a generous responsibility of nurturing and taking care of human resources by choice and <b>YOU</b> are the most precious human resource which you need to nurture with topmost priority..</p>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>Motu Baan Gy</h2>
+				<img src="img/n8.gif"/>
+				<span class="cd-date">58 ~ 60 Transition And Growing...</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>Happiness Always :)</h2>
+				<img src="img/n4.jpg"/>
+				<p>And yes... copied as always..</p>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+				<h2>Philo Gyaan</h2>
+			<div class="cd-timeline-content">
+				<img src="img/n3.jpg"/>
+				<p>Look at the building. Most of the people would want to be at the top of it. But you know where do I want you to be...?<br> I rather want you to be on the driving seat of the little crane, where you assemble and nurture the building blocks and help shaping the giant in making. And you know most importantly you are not a looser, you climb even higher as the building increases in height. You always remain on the top of everything.</p>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<img src="img/n9.png"/>
+				<p>Suraj roshni le kar aayaa, Aur chidyon ne gaanaa gaayaa, Chanda mama khil khilya, Phoolon ne hans hans kar bolaa, Mubarak ho tumhaari janam din aaya!<br>Happiieeeeee Birthday<br>Subho Jonmodin :)</p>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>Close Your Eyes & Make A Wish</h2>
+				<img src="img/n6.jpg"/>
+				<p>This one wish is definitely going to be a reality... So choose wisely.</p>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-picture.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<p>And all these because I like to give compliments nothing else..</p>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+	</section> <!-- cd-timeline -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+</body>
+</html>
