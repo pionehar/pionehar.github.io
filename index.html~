@@ -14,7 +14,7 @@
 </head>
 <body>
 	<header>
-		<h1>Disclaimer: If you scroll down, time barbad hojyga</h1>
+		<h1>WARNING!!! If you scroll down, time barbad hojyga</h1>
 	</header>
 
 	<section id="cd-timeline" class="cd-container">
@@ -62,7 +62,7 @@
 			<div class="cd-timeline-content">
 				<h2>Chase Your Dreams</h2>
 				<img src="img/n3.jpg"/>
-				<p>Go for it.. With god's bless you will live your dreams. Just don't stop chasing. I can see sunshine is even brighter on the other side of the tunnel.</p>
+				<p>Go for it.. With god's blessings you will live your dreams. Just don't stop chasing. I can see sunshine is even brighter on the other side of the tunnel.</p>
 			</div> <!-- cd-timeline-content -->
 		</div> <!-- cd-timeline-block -->
 
@@ -152,7 +152,7 @@
 			</div> <!-- cd-timeline-img -->
 
 			<div class="cd-timeline-content">
-				<h2>Close Your Eyes & Make A Wish</h2>
+				<h2>You Get A Reward For Reading Patiently</h2>
 				<img src="img/n6.jpg"/>
 				<p>This one wish is definitely going to be a reality... So choose wisely.</p>
 			</div> <!-- cd-timeline-content -->
